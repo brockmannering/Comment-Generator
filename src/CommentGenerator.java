@@ -2,7 +2,7 @@
  * Course:      CS300 - Summer 2020
  * Program:     Comment Generator - FINAL PROJECT
  * Name:        Brock Mannering
- * Wisc Email:      bmannering@gmail.com
+ * Wisc Email:      bmannering@wisc.edu
  * Web Sources:      Old Assignment references only
  * Personal Help:   None
  */
